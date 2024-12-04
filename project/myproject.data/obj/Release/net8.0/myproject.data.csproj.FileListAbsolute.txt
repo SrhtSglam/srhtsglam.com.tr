@@ -1,0 +1,12 @@
+C:\Users\stj067\Documents\GitHub\srhtsglam.com.tr\project\myproject.data\bin\Release\net8.0\myproject.data.deps.json
+C:\Users\stj067\Documents\GitHub\srhtsglam.com.tr\project\myproject.data\bin\Release\net8.0\myproject.data.dll
+C:\Users\stj067\Documents\GitHub\srhtsglam.com.tr\project\myproject.data\bin\Release\net8.0\myproject.data.pdb
+C:\Users\stj067\Documents\GitHub\srhtsglam.com.tr\project\myproject.data\obj\Release\net8.0\myproject.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stj067\Documents\GitHub\srhtsglam.com.tr\project\myproject.data\obj\Release\net8.0\myproject.data.AssemblyInfoInputs.cache
+C:\Users\stj067\Documents\GitHub\srhtsglam.com.tr\project\myproject.data\obj\Release\net8.0\myproject.data.AssemblyInfo.cs
+C:\Users\stj067\Documents\GitHub\srhtsglam.com.tr\project\myproject.data\obj\Release\net8.0\myproject.data.csproj.CoreCompileInputs.cache
+C:\Users\stj067\Documents\GitHub\srhtsglam.com.tr\project\myproject.data\obj\Release\net8.0\myproject.data.sourcelink.json
+C:\Users\stj067\Documents\GitHub\srhtsglam.com.tr\project\myproject.data\obj\Release\net8.0\myproject.data.dll
+C:\Users\stj067\Documents\GitHub\srhtsglam.com.tr\project\myproject.data\obj\Release\net8.0\refint\myproject.data.dll
+C:\Users\stj067\Documents\GitHub\srhtsglam.com.tr\project\myproject.data\obj\Release\net8.0\myproject.data.pdb
+C:\Users\stj067\Documents\GitHub\srhtsglam.com.tr\project\myproject.data\obj\Release\net8.0\ref\myproject.data.dll

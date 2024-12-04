@@ -1,0 +1,11 @@
+C:\Users\stj067\Documents\GitHub\srhtsglam.com.tr\project\myproject.webapp\bin\Release\net8.0\publish\myproject.webapp.exe
+C:\Users\stj067\Documents\GitHub\srhtsglam.com.tr\project\myproject.webapp\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\stj067\Documents\GitHub\srhtsglam.com.tr\project\myproject.webapp\bin\Release\net8.0\publish\appsettings.json
+C:\Users\stj067\Documents\GitHub\srhtsglam.com.tr\project\myproject.webapp\bin\Release\net8.0\publish\myproject.webapp.dll
+C:\Users\stj067\Documents\GitHub\srhtsglam.com.tr\project\myproject.webapp\bin\Release\net8.0\publish\myproject.webapp.deps.json
+C:\Users\stj067\Documents\GitHub\srhtsglam.com.tr\project\myproject.webapp\bin\Release\net8.0\publish\myproject.webapp.runtimeconfig.json
+C:\Users\stj067\Documents\GitHub\srhtsglam.com.tr\project\myproject.webapp\bin\Release\net8.0\publish\myproject.webapp.pdb
+C:\Users\stj067\Documents\GitHub\srhtsglam.com.tr\project\myproject.webapp\bin\Release\net8.0\publish\myproject.data.dll
+C:\Users\stj067\Documents\GitHub\srhtsglam.com.tr\project\myproject.webapp\bin\Release\net8.0\publish\myproject.entity.dll
+C:\Users\stj067\Documents\GitHub\srhtsglam.com.tr\project\myproject.webapp\bin\Release\net8.0\publish\myproject.entity.pdb
+C:\Users\stj067\Documents\GitHub\srhtsglam.com.tr\project\myproject.webapp\bin\Release\net8.0\publish\myproject.data.pdb
